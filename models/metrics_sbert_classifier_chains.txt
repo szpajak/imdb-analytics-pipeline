@@ -1,0 +1,36 @@
+sbert_classifier_chains metrics
+micro_f1: 0.579074212582066
+macro_f1: 0.42187462010451426
+micro_precision: 0.5150036954915004
+micro_recall: 0.6613515565679575
+
+              precision    recall  f1-score   support
+
+      Action       0.59      0.78      0.67       543
+       Adult       0.00      0.00      0.00         0
+   Adventure       0.61      0.69      0.65       360
+   Animation       0.33      0.34      0.33       110
+   Biography       0.56      0.37      0.45       151
+      Comedy       0.59      0.69      0.64       722
+       Crime       0.61      0.61      0.61       411
+ Documentary       0.27      0.44      0.34        36
+       Drama       0.71      0.82      0.76      1142
+      Family       0.30      0.23      0.26       107
+     Fantasy       0.27      0.53      0.36       146
+     History       0.36      0.45      0.40        74
+      Horror       0.52      0.62      0.57       262
+       Music       0.54      0.62      0.58        64
+     Musical       0.00      0.00      0.00        20
+     Mystery       0.44      0.43      0.44       220
+        News       0.00      0.00      0.00         0
+     Romance       0.55      0.58      0.57       330
+      Sci-Fi       0.41      0.63      0.50       163
+       Sport       0.53      0.60      0.57        43
+    Thriller       0.28      0.76      0.41       324
+         War       0.31      0.48      0.38        33
+     Western       0.15      0.57      0.24         7
+
+   micro avg       0.52      0.66      0.58      5268
+   macro avg       0.39      0.49      0.42      5268
+weighted avg       0.55      0.66      0.59      5268
+ samples avg       0.53      0.68      0.57      5268

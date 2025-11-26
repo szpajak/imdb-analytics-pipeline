@@ -1,0 +1,36 @@
+sbert_lgbm_ovr metrics
+micro_f1: 0.611891300383002
+macro_f1: 0.41395392826396105
+micro_precision: 0.5888030888030888
+micro_recall: 0.6368640850417616
+
+              precision    recall  f1-score   support
+
+      Action       0.59      0.78      0.67       543
+       Adult       0.00      0.00      0.00         0
+   Adventure       0.64      0.68      0.66       360
+   Animation       0.50      0.26      0.35       110
+   Biography       0.69      0.51      0.59       151
+      Comedy       0.64      0.64      0.64       722
+       Crime       0.64      0.60      0.62       411
+ Documentary       0.78      0.19      0.31        36
+       Drama       0.69      0.87      0.77      1142
+      Family       0.38      0.18      0.24       107
+     Fantasy       0.54      0.29      0.38       146
+     History       0.43      0.31      0.36        74
+      Horror       0.59      0.62      0.60       262
+       Music       0.68      0.44      0.53        64
+     Musical       0.00      0.00      0.00        20
+     Mystery       0.44      0.45      0.45       220
+        News       0.00      0.00      0.00         0
+     Romance       0.50      0.67      0.57       330
+      Sci-Fi       0.63      0.37      0.47       163
+       Sport       0.75      0.42      0.54        43
+    Thriller       0.34      0.60      0.44       324
+         War       0.62      0.24      0.35        33
+     Western       0.00      0.00      0.00         7
+
+   micro avg       0.59      0.64      0.61      5268
+   macro avg       0.48      0.40      0.41      5268
+weighted avg       0.59      0.64      0.60      5268
+ samples avg       0.62      0.65      0.60      5268

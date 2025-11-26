@@ -1,0 +1,36 @@
+sbert_mlp_dense metrics
+micro_f1: 0.5889816896884035
+macro_f1: 0.4452286085616449
+micro_precision: 0.5104398663697105
+micro_recall: 0.6960895975702354
+
+              precision    recall  f1-score   support
+
+      Action       0.60      0.81      0.69       543
+       Adult       0.00      0.00      0.00         0
+   Adventure       0.58      0.70      0.64       360
+   Animation       0.36      0.57      0.44       110
+   Biography       0.54      0.60      0.57       151
+      Comedy       0.71      0.58      0.64       722
+       Crime       0.65      0.64      0.64       411
+ Documentary       0.28      0.47      0.35        36
+       Drama       0.68      0.90      0.77      1142
+      Family       0.31      0.36      0.34       107
+     Fantasy       0.27      0.67      0.39       146
+     History       0.34      0.55      0.42        74
+      Horror       0.60      0.60      0.60       262
+       Music       0.68      0.56      0.62        64
+     Musical       0.33      0.05      0.09        20
+     Mystery       0.38      0.60      0.47       220
+        News       0.00      0.00      0.00         0
+     Romance       0.51      0.72      0.60       330
+      Sci-Fi       0.60      0.36      0.45       163
+       Sport       0.63      0.63      0.63        43
+    Thriller       0.31      0.73      0.44       324
+         War       0.32      0.67      0.43        33
+     Western       0.02      1.00      0.03         7
+
+   micro avg       0.51      0.70      0.59      5268
+   macro avg       0.42      0.56      0.45      5268
+weighted avg       0.57      0.70      0.61      5268
+ samples avg       0.54      0.71      0.59      5268
