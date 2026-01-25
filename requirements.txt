@@ -1,0 +1,12 @@
+ipykernel
+numpy
+pandas
+transformers
+torch
+tensorflow
+scikit-learn
+sentence-transformers
+iterative-stratification
+lightgbm
+joblib
+tqdm
