@@ -1,0 +1,17 @@
+sbert_lgbm_ovr_imprv metrics
+micro_f1: 0.8251482268710146
+macro_f1: 0.7827666540644398
+micro_precision: 0.7780590717299578
+micro_recall: 0.8783043581805192
+
+              precision    recall  f1-score   support
+
+      Action       0.71      0.74      0.73       543
+      Comedy       0.62      0.76      0.68       722
+       Drama       0.73      0.83      0.78      1142
+       Other       0.90      1.00      0.95      1792
+
+   micro avg       0.78      0.88      0.83      4199
+   macro avg       0.74      0.83      0.78      4199
+weighted avg       0.78      0.88      0.83      4199
+ samples avg       0.80      0.89      0.82      4199

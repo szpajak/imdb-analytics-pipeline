@@ -1,0 +1,17 @@
+sbert_mlp_dense_imprv metrics
+micro_f1: 0.8232701630674306
+macro_f1: 0.7818800217682748
+micro_precision: 0.7660446996104162
+micro_recall: 0.8897356513455584
+
+              precision    recall  f1-score   support
+
+      Action       0.65      0.82      0.72       543
+      Comedy       0.65      0.72      0.68       722
+       Drama       0.70      0.87      0.78      1142
+       Other       0.90      0.99      0.94      1792
+
+   micro avg       0.77      0.89      0.82      4199
+   macro avg       0.72      0.85      0.78      4199
+weighted avg       0.77      0.89      0.83      4199
+ samples avg       0.79      0.91      0.82      4199

@@ -1,0 +1,17 @@
+sbert_classifier_chains_imprv metrics
+micro_f1: 0.8189645276087705
+macro_f1: 0.7780720235085646
+micro_precision: 0.7905585106382979
+micro_recall: 0.8494879733269826
+
+              precision    recall  f1-score   support
+
+      Action       0.68      0.76      0.72       543
+      Comedy       0.66      0.71      0.69       722
+       Drama       0.74      0.80      0.77      1142
+       Other       0.91      0.96      0.94      1792
+
+   micro avg       0.79      0.85      0.82      4199
+   macro avg       0.75      0.81      0.78      4199
+weighted avg       0.79      0.85      0.82      4199
+ samples avg       0.81      0.87      0.81      4199
